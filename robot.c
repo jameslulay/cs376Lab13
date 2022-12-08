@@ -31,7 +31,7 @@ void robotPrintMessage(void)
 void robotPrintAscii(void)
 {
   printf("\n\n");
-  printf("UWR: Unidentified Wheeled Robot\n");
+  printf("UWR: Unidentified Wheeled Robot by james\n");
   int round = 0;
   for(int i = 0; i < 3; i++) {
 	printBlanks(10, round);
